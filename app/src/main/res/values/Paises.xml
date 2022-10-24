@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_paises">
+
+        <item>Seleccione un país</item>
+        <item>(504) Honduras</item>
+        <item>(506) Costa Rica</item>
+        <item>(502) Guatemala</item>
+        <item>(503) El Salvador</item>
+        <item>(507) Panama</item>
+        <item>(505) Nicaragua</item>
+        <item>(501) Belice</item>
+
+    </string-array>
+</resources>
